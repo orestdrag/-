@@ -1,0 +1,25 @@
+﻿<Window x:Class="PlanetStar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:gl="clr-namespace:SharpGL.WPF;assembly=SharpGL.WPF"
+        xmlns:local="clr-namespace:PlanetStar"
+        mc:Ignorable="d"
+        Title="Лабораторна робота номер 5, Драгуш" Height="470" Width="720">
+    <Grid Margin="0,0,-8,-7">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="61*"/>
+            <ColumnDefinition Width="114*"/>
+            <ColumnDefinition Width="185*"/>
+        </Grid.ColumnDefinitions>
+        <gl:OpenGLControl OpenGLDraw="OpenGLControl_OpenGLDraw" OpenGLInitialized="OpenGLControl_OpenGLInitialized" DrawFPS="True" FrameRate="60" Margin="10,10,35,78" Grid.ColumnSpan="3"/>
+        <CheckBox FontSize="20" x:Name="checkBox" Content="Обертати зорю" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="10,373,0,0" IsChecked="False" Visibility="Hidden" Grid.ColumnSpan="2"/>
+        <CheckBox FontSize="20" x:Name="checkBox_Copy" Content="Обертати планету" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="57.748,373,0,0" IsChecked="False" Visibility="Hidden" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <CheckBox FontSize="20" x:Name="checkBox_Copy1" Content="Увімкнути освітлення" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="36,373,0,0" IsChecked="True" Visibility="Hidden" Grid.Column="2"/>
+        <Button FontSize="20" x:Name="Button_star" Content="Крутись!" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="27,375,0,0" Click="Button_star_Click" Height="55" Width="144" Grid.ColumnSpan="2" />
+        <Button FontSize="20" x:Name="Button_planet" Content="Обертати планету" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="73.748,399,0,0" Click="Button_planet_Click" Visibility="Hidden" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="47" Margin="279,375,0,0" TextWrapping="Wrap" Text="5" VerticalAlignment="Top" Width="56" FontSize="24" Grid.Column="2"/>
+        <Label Content="Швидкість = " HorizontalAlignment="Left" Margin="111,382,0,0" VerticalAlignment="Top" FontSize="22" Grid.Column="2"/>
+    </Grid>
+</Window>

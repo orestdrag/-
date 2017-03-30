@@ -1,0 +1,49 @@
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\bin\Debug\PlanetStar.exe.config
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\bin\Debug\PlanetStar.exe
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\bin\Debug\PlanetStar.pdb
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.dll
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.SceneGraph.dll
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.WPF.dll
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.pdb
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.xml
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.SceneGraph.pdb
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.SceneGraph.xml
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.WPF.pdb
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.WPF.xml
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.csprojResolveAssemblyReference.cache
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\obj\Debug\MainWindow.g.cs
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\obj\Debug\App.g.cs
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar_MarkupCompile.cache
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar_MarkupCompile.lref
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\obj\Debug\MainWindow.baml
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.g.resources
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.Properties.Resources.resources
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.csproj.GenerateResource.Cache
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.exe
+O:\dr\OneDrive\se\y3\s2\ms\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.pdb
+D:\Dropbox\Політехніка\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\bin\Debug\PlanetStar.exe.config
+D:\Dropbox\Політехніка\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.exe
+D:\Dropbox\Політехніка\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.pdb
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\bin\Debug\PlanetStar.exe.config
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\bin\Debug\PlanetStar.exe
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\bin\Debug\PlanetStar.pdb
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.dll
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.WPF.dll
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.pdb
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.xml
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.WPF.pdb
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\bin\Debug\SharpGL.WPF.xml
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.csprojResolveAssemblyReference.cache
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\obj\Debug\MainWindow.g.cs
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\obj\Debug\App.g.cs
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar_MarkupCompile.cache
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar_MarkupCompile.lref
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\obj\Debug\MainWindow.baml
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.g.resources
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.Properties.Resources.resources
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.csproj.GenerateResource.Cache
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.exe
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\lab#5\PlanetStar\PlanetStar\obj\Debug\PlanetStar.pdb
