@@ -17,5 +17,118 @@
        type="application/x-shockwave-flash"
        pluginspage="http://www.macromedia.com/go/getflashplayer">
        </embed>
+	   <canvas id='test' height='400' width='600'>Ha! You cant see this</canvas>
+      <canvas id="myCanvas" width="600" height="400"/>
+	   <script type="text/javascript">
+            var canvas  = document.getElementById("test");
+            var ctx     = canvas.getContext('2d');
+			
+            ctx.fillStyle = 'black'; 
+			ctx.strokeRect(5, 5, 138, 138);
+			ctx.fillRect(10, 10, 128, 128);
+			oh=0;
+			ow=0;
+			for (i = 0; i <= 10; i += 2) {
+				ow=0;
+				for (j = 0; j <= 10; j += 2) {
+					ctx.clearRect(oh+10 + i * 64, ow + 10 + j * 64, 64, 64);
+					ctx.clearRect(oh+10 + (i + 1) * 64, ow + 10 + (j + 1) * 64, 64, 64);
+					ow+=60;
+				}
+				oh+=60;
+			}
+			/*
+            ctx.strokeRect(0, 0, canvas.width, canvas.height);
+			ctx.fillRect(x, y, width, height);
+			//*/
+			
+			window.requestAnimFrame = (function(callback) {
+				return window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame 
+				|| window.oRequestAnimationFrame || window.msRequestAnimationFrame ||
+			function(callback) {
+			  window.setTimeout(callback, 1000 / 60);
+			};
+		  })();
+
+		  function drawRectangle(myRectangle, context) {
+			context.beginPath();
+			context.rect(myRectangle.x, myRectangle.y, myRectangle.width, myRectangle.height);
+			context.fillStyle = '#8ED6FF';
+			context.fill();
+			context.lineWidth = myRectangle.borderWidth;
+			context.strokeStyle = 'black';
+			context.stroke();
+		  }
+		  var newX;
+		  function animate(myRectangle, canvas, context, startTime, way) {
+			// update
+			var time = (new Date()).getTime() - startTime;
+
+			var linearSpeed = 100;
+			// pixels / second
+			newX = linearSpeed * time / 1000*way;
+			
+			if(newX < canvas.width - myRectangle.width - myRectangle.borderWidth / 2) {
+			  myRectangle.x = newX;
+			}
+
+			// clear
+			context.clearRect(0, 0, canvas.width, canvas.height);
+
+			drawRectangle(myRectangle, context);
+			
+			// request new frame
+			requestAnimFrame(function() {
+			  animate(myRectangle, canvas, context, startTime, way);
+			});
+		  }
+		  function animateb(myRectangle, canvas, context, startTime, way,stX) {
+			// update
+			var time = (new Date()).getTime() - startTime;
+
+			var linearSpeed = 100;
+			// pixels / second
+			newX = stX+linearSpeed * time / 1000*way;
+			
+			//if(newX < canvas.width - myRectangle.width - myRectangle.borderWidth / 2) {
+			  myRectangle.x = newX;
+			//}
+
+			// clear
+			context.clearRect(0, 0, canvas.width, canvas.height);
+
+			drawRectangle(myRectangle, context);
+			
+			// request new frame
+			requestAnimFrame(function() {
+			  animateb(myRectangle, canvas, context, startTime, way,stX);
+			});
+		  }
+		  var canvas = document.getElementById('myCanvas');
+		  var context = canvas.getContext('2d');
+
+		  var myRectangle = {
+			x: 0,
+			y: 75,
+			width: 100,
+			height: 50,
+			borderWidth: 5
+		  };
+
+		  drawRectangle(myRectangle, context);
+			myway = 1;
+		  // wait one second before starting animation
+		  setTimeout(function() {
+			var startTime = (new Date()).getTime();
+			animate(myRectangle, canvas, context, startTime,myway);
+		  }, 1000);
+		  
+		  var nx = canvas.width - myRectangle.width - myRectangle.borderWidth / 2;
+		  setTimeout(function() {
+			var startTime = (new Date()).getTime();
+			animateb(myRectangle,canvas, context, startTime,-myway,canvas.width - myRectangle.width - myRectangle.borderWidth / 2);
+		  }, 8000);
+		  
+        </script>
     </body>
 </html>
