@@ -1,0 +1,51 @@
+﻿<Application x:Class="VideoPlayer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:VideoPlayer"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="buttonStyle1" TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="FontStyle" Value="Italic" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="FontFamily" Value="Verdana"/>
+        </Style>
+
+        <Style x:Key="windowStyle1" TargetType="{x:Type Window}">
+            <Setter Property="Background" Value="Black" />
+            <Setter Property="FontStyle" Value="Oblique" />            
+        </Style>
+        
+
+        <Style x:Key="buttonStyle2" TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="Green" />
+            <Setter Property="FontStyle" Value="Oblique" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="FontFamily" Value="AppleTree"/>
+        </Style>
+
+        <Style x:Key="windowStyle2" TargetType="{x:Type Window}">
+            <Setter Property="Background" Value="Gray" />
+            <Setter Property="FontStyle" Value="Normal" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="FontSize" Value="18" />
+        </Style>
+
+
+        <Style x:Key="buttonStyle3" TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="Aqua" />
+            <Setter Property="Cursor" Value="Cross" />
+            <Setter Property="BorderBrush" Value="RoyalBlue" />
+            <Setter Property="FontStyle" Value="Oblique" />
+            <Setter Property="FontFamily" Value="Roboto"/>
+            <Setter Property="BorderThickness" Value="8"/>
+            <Setter Property="Width" Value="Auto"/>
+        </Style>
+
+        <Style x:Key="windowStyle3" TargetType="{x:Type Window}">
+            <Setter Property="Background" Value="HotPink" />
+            <Setter Property="FontStyle" Value="Oblique" />
+        </Style>
+
+    </Application.Resources>
+</Application>

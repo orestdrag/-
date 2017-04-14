@@ -1,0 +1,33 @@
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\obj\Debug\MainWindow.g.cs
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\obj\Debug\App.g.cs
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_Content.g.cs
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.cache
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.lref
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\obj\Debug\App.baml
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\obj\Debug\MainWindow.baml
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.g.resources
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.Cache
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+O:\dr\OneDrive\se\y3\s2\ms\lab#8\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\obj\Debug\App.g.cs
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_Content.g.cs
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.cache
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.lref
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\obj\Debug\App.baml
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\obj\Debug\MainWindow.baml
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.g.resources
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.Cache
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\orkod\Downloads\6 semester\3 курс 2 семестр\2 семестр\ПМС\Матеріали\VideoPlayer\VideoPlayer\bin\Debug\vid.mp4
